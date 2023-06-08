@@ -2,6 +2,9 @@
 
 using namespace std;
 
+/*
+Demonstration of types of operators.
+*/
 int main() {
     cout << "Arithmetic Operators:" << endl;
     int x = 4, y = 2;
